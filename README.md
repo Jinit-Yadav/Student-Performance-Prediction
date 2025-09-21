@@ -1,6 +1,3 @@
-# Student Performance Prediction System - GitHub README
-
-```markdown
 # Student Performance Prediction System
 
 A machine learning-based web application that predicts student academic performance based on various demographic, social, and educational factors.
